@@ -16,4 +16,4 @@ const characterCount = (str) => {
   return characterList;
 };
 
-console.log(characterCount("Hello Bangladesh!"));
+console.log(characterCount("Hello Bangladesh!")); // output: { h: 2, e: 2, l: 3, o: 1, b: 1, a: 2, n: 1, g: 1, d: 1, s: 1 }
