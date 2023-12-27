@@ -16,4 +16,4 @@ const bubbleSort = (arr) => {
 };
 
 let arr = [1, 4, 2, 5, -2, 3];
-console.log(bubbleSort(arr));
+// console.log(bubbleSort(arr));
